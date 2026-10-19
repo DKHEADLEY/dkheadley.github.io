@@ -1,0 +1,8 @@
+private*
+
+# OS/editor noise
+.DS_Store
+.ipynb_checkpoints/
+
+# Local draft workspace
+in_progress/
